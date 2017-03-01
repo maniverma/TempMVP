@@ -7,3 +7,11 @@
 /build
 /captures
 .externalNativeBuild
+app/libs/
+app/src/main/res/drawable/
+mvpmodule/src/main/res/mipmap-xhdpi/
+mvpmodule/src/main/res/mipmap-xxhdpi/
+mvpmodule/src/main/res/mipmap-xxxhdpi/
+src/main/res/mipmap-xhdpi/
+src/main/res/mipmap-xxhdpi/
+src/main/res/mipmap-xxxhdpi/

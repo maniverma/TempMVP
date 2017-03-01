@@ -180,6 +180,8 @@ public class MainActivity
     private class ListNotes extends RecyclerView.Adapter<NotesViewHolder> {
 
 
+
+
         @Override
         public int getItemCount() {
             return mPresenter.getNotesCount();
